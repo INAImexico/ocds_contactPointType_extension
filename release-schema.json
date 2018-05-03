@@ -1,0 +1,33 @@
+{
+  "definitions": {
+    "ContactPoint": {
+      "properties": {
+        "type": {
+          "title": "Contact point type",
+          "description": "Specify the contact point type using the [contactPointType] (https://github.com/INAImexico/ocds_contactPointType_extension/blob/master/codelists/contactPointType.csv) codelist.",
+          "type": [
+            "string",
+            "null"
+          ],
+          "codelist": "contactPointType.csv"
+        },
+        "availableLanguages": {
+          "title": "Available Language(s)",
+          "description": "An array of language codes (e.g. en, es, uk)",
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "lenguageCode": {
+          "title": "Language code",
+          "description": "ISO language code.",
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}
