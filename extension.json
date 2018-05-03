@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en" : "Contact point type"
+   },
+  "description": {
+    "en": "Specify the contact point type using the contactPointType codelist."
+   },
+  "compatibility": [
+    "1.1"
+   ],
+  "documentationUrl": {
+    "en": "https://github.com/INAImexico/ocds_contactPointType_extension"
+   },
+  "codelists": [
+    "contactPointType.csv",
+   ]
+}
