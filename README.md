@@ -17,7 +17,7 @@
 
 **Code** | **Title** | **Description**
 --|--|--
-type | Contact point type | Specify the contact point type using the [contactPointType] () codelist.
+type | Contact point type | Specify the contact point type using the [contactPointType](https://github.com/INAImexico/ocds_contactPointType_extension/blob/master/codelists/contactPointType.csv) codelist.
 contactPoint | Contact point | Person who serves as the point of contact for this organization.
 attorney | Attorney | The attorney-in-fact is the individual who has an authorization to represent or act on another's behalf in private affairs, business, or some other legal matter.
 availableLanguages | Available Language(s) | An array of language codes (e.g. en, es, uk).
