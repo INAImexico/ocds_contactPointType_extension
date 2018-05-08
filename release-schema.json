@@ -9,7 +9,7 @@
             "string",
             "null"
           ],
-          "codelist": "contactPointType.csv"
+          "codelist": "contactPointType.csv",
           "openCodelist": true
         },
         "availableLanguages": {
