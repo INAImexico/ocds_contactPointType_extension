@@ -10,6 +10,7 @@
             "null"
           ],
           "codelist": "contactPointType.csv"
+          "openCodelist": true
         },
         "availableLanguages": {
           "title": "Available Language(s)",
