@@ -13,5 +13,8 @@
    },
   "codelists": [
     "contactPointType.csv"
-   ]
+   ],
+  "schemas": [
+    "release-schema.json"
+  ]
 }
