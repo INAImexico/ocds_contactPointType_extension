@@ -12,6 +12,9 @@
     "en": "https://github.com/INAImexico/ocds_contactPointType_extension"
    },
   "codelists": [
-    "contactPointType.csv",
-   ]
+    "contactPointType.csv"
+   ],
+  "schemas": [
+    "release-schema.json"
+  ]
 }
